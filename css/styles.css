@@ -22,3 +22,57 @@ body {
 .span-studio {
   color: #2e2f42;
 }
+
+.studio-list {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.studio-list:hover {
+  color: #404bbf;
+}
+
+.studio-list:focus {
+  color: #404bbf;
+
+
+}
+
+.address-one {
+  font-style: normal;
+}
+
+.link-email {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+columns: #434455;
+}
+
+.link-email:hover {
+color: #404bbf;
+}
+
+.link-email:focus {
+color: #404bbf;
+}
+
+.link-telephone {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+columns: #434455;
+}
+
+.link-telephone:hover {
+color: #404bbf;
+}
+
+.link-telephone:focus {
+color: #404bbf;
+}
+
+
