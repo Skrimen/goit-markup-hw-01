@@ -19,10 +19,9 @@ header {
   
 }
 
-.nav-list {
-  display: flex;
-  align-items: center;
-
+.nav_list {
+display: flex;
+align-items: center;
 }
 
 .menu-one {
