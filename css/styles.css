@@ -105,6 +105,11 @@ color: #404bbf;
 }
 
 .button-one {
+  border-radius: 4px;
+  border: none;
+  height: 56px;
+  min-width: 169px;
+  display: block;
   background-color: #4D5AE5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
