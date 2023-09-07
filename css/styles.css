@@ -4,6 +4,22 @@ body {
   background-color: #FFFFFF;
 }
 
+header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.container {
+  width: 1158px
+}
+
+.div-header {
+
+}
+
+.nav-list {
+  display: flex;
+}
+
 img {
   display: block;
 }
