@@ -17,7 +17,7 @@ header {
 
 
 
-.nav_list {
+.nav-list {
 display: flex;
 align-items: center;
 }
@@ -67,9 +67,12 @@ color: #2e2f42;
 }
 
 .address-one {
+  font-style: normal;
+}
+
+.address-list {
   display: flex;
   gap: 40px;
-  font-style: normal;
 }
 
 .link-email-telephone {
