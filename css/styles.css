@@ -3,17 +3,3 @@ body {
   color: #434455;
   background-color: #FFFFFF;
 }
-li {
-  list-style-type: none;
-}
-
-a {
-  text-decoration: none;
-
-}
-nav {
-display: flex;
-justify-content: center;
-}
-
-
