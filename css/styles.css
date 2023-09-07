@@ -45,34 +45,20 @@ color: #2e2f42;
   font-style: normal;
 }
 
-.link-email {
+.link-email-telephone {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 
-.link-email:hover {
+.link-email-telephone:hover {
 color: #404bbf;
 }
 
-.link-email:focus {
+.link-email-telephone:focus {
 color: #404bbf;
 }
 
-.link-telephone {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
-}
-
-.link-telephone:hover {
-color: #404bbf;
-}
-
-.link-telephone:focus {
-color: #404bbf;
-}
 
 
