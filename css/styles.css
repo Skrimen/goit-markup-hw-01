@@ -16,7 +16,7 @@ header {
 }
 
 .div-header {
-  
+  display: flex;
 }
 
 .nav_list {
