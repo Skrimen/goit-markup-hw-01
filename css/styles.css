@@ -9,12 +9,7 @@ header {
 }
 
 
-.container {
-  display: flex;
-  width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px;
-}
+
 
 
 
@@ -177,9 +172,6 @@ color: #404bbf;
   gap: 24px;
 }
 
-.lists-section-two {
-  
-}
 
 .title {
   font-weight: 500;
@@ -209,9 +201,7 @@ color: #404bbf;
 
 }
 
-.list-section-four {
 
-}
 .worker-section-tree {
   padding: 32px 0;
 }
@@ -300,4 +290,11 @@ color: #404bbf;
   line-height: 1.5;
   color: #F4F4FD;
   letter-spacing: 0.02em;
+}
+
+.container {
+  
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
