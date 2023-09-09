@@ -188,7 +188,6 @@ color: #404bbf;
 }
 
 .list-section-tree {
-  
   border-radius: 0px 0px 4px 4px;
   background-color: #FFFFFF;
 }
@@ -297,4 +296,8 @@ color: #404bbf;
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+}
+
+.hed {
+  display: flex;
 }
