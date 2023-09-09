@@ -176,6 +176,16 @@ color: #404bbf;
   color: #2e2f42;
 }
 
+.list-section-two {
+  display: flex;
+  gap: 24px;
+}
+
+.lists-section-two {
+  width: calc((100% – 72px)/4);
+  margin-bottom: 8px;
+}
+
 .list-section-tree {
   background-color: #FFFFFF;
 }
