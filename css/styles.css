@@ -171,13 +171,14 @@ color: #404bbf;
 }
 
 .list-section-two {
+  style="width: calc((100% - 72px) / 4);
   display: flex;
   gap: 24px;
 }
 
-.lists-section-two {
+/*.lists-section-two {
   width: calc((100% - 72px) / 4);
-}
+}*/
 
 .title {
   font-weight: 500;
