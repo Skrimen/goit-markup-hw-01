@@ -178,7 +178,7 @@ color: #404bbf;
 }
 
 .lists-section-two {
-  flex-basis: calc(4 / (100% - 72px));
+  
 }
 
 .title {
@@ -196,7 +196,7 @@ color: #404bbf;
 }
 
 .list-section-tree {
-  flex-basis: calc(4 / (100% - 72px));
+  
   border-radius: 0px 0px 4px 4px;
   background-color: #FFFFFF;
 }
