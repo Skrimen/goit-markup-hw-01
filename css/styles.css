@@ -192,6 +192,8 @@ color: #404bbf;
   background-color: #FFFFFF;
 }
 
+
+
 .all-section-four {
   display: flex;
   flex-wrap: wrap;
@@ -292,7 +294,7 @@ color: #404bbf;
 }
 
 .container {
-  
+  display: flex;
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
