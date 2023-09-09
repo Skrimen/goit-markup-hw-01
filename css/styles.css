@@ -107,6 +107,7 @@ color: #404bbf;
 
 
 .section-two {
+  width: calc((100% - 72px) / 4);
   padding: 120px 0;
 }
 
