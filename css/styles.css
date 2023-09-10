@@ -191,18 +191,28 @@ color: #404bbf;
 }
 
 .all-section-tree {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
   display: flex;
   gap: 24px;
 }
 
 .list-section-tree {
+  width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
   background-color: #FFFFFF;
 }
 
+.list-section-four {
+  width: calc((100% - 48px) / 3);
+}
 
 
 .all-section-four {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
@@ -283,6 +293,7 @@ color: #404bbf;
 }
 
 .logo-two {
+  display: inline-block;
   margin-bottom: 16px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -291,7 +302,7 @@ color: #404bbf;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  display: inline-block;
+  
 }
 
 .paragraph-footer {
