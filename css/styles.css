@@ -204,9 +204,7 @@ color: #404bbf;
   background-color: #FFFFFF;
 }
 
-.list-section-four {
-  width: calc((100% - 48px) / 3);
-}
+
 
 
 .all-section-four {
@@ -220,6 +218,9 @@ color: #404bbf;
 
 }
 
+.list-section-four {
+  width: calc((100% - 48px) / 3);
+}
 
 .worker-section-tree {
   padding: 32px 0;
