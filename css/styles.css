@@ -168,12 +168,16 @@ color: #404bbf;
 }
 
 .list-section-two {
-  width: calc((100% - 72px) / 4);
+  
   margin: 0px;
   padding: 0px;
   list-style: none;
   display: flex;
   gap: 24px;
+}
+
+.lists-section-two {
+  width: calc((100% - 72px) / 4);
 }
 
 
