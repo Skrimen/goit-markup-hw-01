@@ -41,7 +41,7 @@ img {
 
 
 .logo {
-
+  position: relative;
   text-decoration: none;
   margin-right: 76px;
   font-family: 'Raleway', sans-serif;
