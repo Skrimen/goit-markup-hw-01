@@ -326,6 +326,7 @@ color: #404bbf;
 }
 
 .paragraph-footer {
+  margin: 0;
   max-width: 264px;
   line-height: 1.5;
   color: #F4F4FD;
