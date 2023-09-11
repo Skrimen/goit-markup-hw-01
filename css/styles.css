@@ -30,6 +30,7 @@ align-items: center;
 }
 
 .menu-one {
+  position: relative;
   list-style: none;
   display: flex;
   gap: 40px;
@@ -41,7 +42,6 @@ img {
 
 
 .logo {
-  position: relative;
   text-decoration: none;
   margin-right: 76px;
   font-family: 'Raleway', sans-serif;
