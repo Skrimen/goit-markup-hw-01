@@ -259,6 +259,14 @@ color: #404bbf;
   background-color: #FFFFFF;
 }
 
+.social {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  
+}
+
+
 
 
 
