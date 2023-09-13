@@ -467,6 +467,9 @@ color: #404bbf;
   letter-spacing: 0.02em;
   color: #FFFFFF;
   margin-bottom: 16px;
-  
+
 }
 
+.footer-social {
+  gap: 16px;
+}
