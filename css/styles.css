@@ -260,6 +260,8 @@ color: #404bbf;
 }
 
 .social {
+
+  padding: 8px 0 0 0;
   display: flex;
   justify-content: center;
   gap: 24px;
