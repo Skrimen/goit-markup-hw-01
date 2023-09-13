@@ -282,6 +282,13 @@ color: #404bbf;
   justify-content: center;
 }
 
+.link-social:hover {
+  background-color: #404bbf;
+}
+
+.link-social:focus {
+  background-color: #404bbf;
+}
 
 
 .all-section-four {
