@@ -341,7 +341,7 @@ color: #404bbf;
 
 .paragraph-overflow {
   position: absolute;
-  top: -16px;
+  top: 0;
   color: #f4f4fd;
   font-weight: 400;
   line-height: 1.5;
@@ -426,8 +426,12 @@ color: #404bbf;
 
 .footer {
   padding: 100px 0;
-
   background-color: #2e2f42;
+}
+
+.footer-container {
+  display: flex;
+  align-items: baseline;
 }
 
 .logo-two {
@@ -452,4 +456,17 @@ color: #404bbf;
   letter-spacing: 0.02em;
 }
 
+.logo-paragraph {
+  margin-right: 120px;
+}
+
+.paragraph-footer-two {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  margin-bottom: 16px;
+  
+}
 
