@@ -10,8 +10,7 @@ header {
 }
 
 h1, h2, h3, h4, h5, h6, p, li, ul { 
-  margin: 0 auto; 
-  padding: 0 auto;
+  margin: 0; 
 }
 
 
@@ -50,6 +49,7 @@ h1, h2, h3, h4, h5, h6, p, li, ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: black; 
+  display: block;
 }
 
 
@@ -95,6 +95,7 @@ img {
 }
 
 .address-list {
+  padding: 24px 0;
   list-style: none;
   display: flex;
   gap: 40px;
@@ -255,6 +256,7 @@ color: #404bbf;
 }
 
 .social {
+  gap: 24px;
   padding: 8px 0 0 0;
   display: flex;
   justify-content: center;
